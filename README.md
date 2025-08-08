@@ -7,9 +7,13 @@ The model is trained using the Telco Customer Churn dataset, and leverages a Ran
 
 # Features:
 Machine Learning Model trained with oversampled data for better minority class prediction
+
 Prediction of customer churn based on 19 key features
+
 Simple and elegant Flask web interface
+
 Clean UI styled with CSS
+
 Displays clear prediction results with supportive insights
 
 # Technologies Used:
