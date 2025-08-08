@@ -50,5 +50,7 @@ The result is displayed on the same web page with a message like:
 "This customer is not likely to churn."
 
 # Result:
+<img width="1603" height="909" alt="image" src="https://github.com/user-attachments/assets/7896be39-b6a6-4a9c-8789-e7eebfc75aeb" />
+
 <img width="1577" height="969" alt="image" src="https://github.com/user-attachments/assets/3a984ccc-c304-40c1-9b90-1bd326fc9476" />
 
