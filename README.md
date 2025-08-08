@@ -48,3 +48,7 @@ The result is displayed on the same web page with a message like:
 "This customer is likely to churn."
 
 "This customer is not likely to churn."
+
+# Result:
+<img width="1577" height="969" alt="image" src="https://github.com/user-attachments/assets/3a984ccc-c304-40c1-9b90-1bd326fc9476" />
+
