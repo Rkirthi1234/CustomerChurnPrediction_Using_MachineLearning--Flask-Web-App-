@@ -1,4 +1,4 @@
-# CustomerChurnPrediction_Using_MachineLearning--Flask-Web-App-
+# Customer Churn Prediction Using Machine Learning (Flask WebApp)
 
 # Project Description:
 This project is a machine learning-based web application that predicts whether a customer will churn (leave a service) or stay, based on their attributes and service usage patterns. Built using Python, Scikit-learn, and Flask, this project demonstrates how predictive modeling can be integrated into a user-friendly web interface.
